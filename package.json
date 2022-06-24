@@ -1,0 +1,20 @@
+{
+  "name": "chat-log-socket-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hadeel",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.8",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
